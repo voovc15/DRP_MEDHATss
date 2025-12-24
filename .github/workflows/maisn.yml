@@ -1,4 +1,4 @@
-name: Fast Code Base64 30s (11)sssss
+name: Fast Code Base64 30s (11)aaaaa
 
 on:
   workflow_dispatch:
@@ -15,11 +15,11 @@ jobs:
       aa1: "dHNrZXktYXV0aC1rc2JSdEZKZDJ0MTFDTlRSTC1yWlk4SjF2SGdZZ3Q4N0NQanFFQ1lnM0ZFMTFGTU1XQlI="
 
       # باقي المتغيرات
-      aa2: "DDDDDDDAAAA"
+      aa2: "CCCCC"
       aa3: "Zxxz5555"
 
       # الروابط
-      TAILSCALE_URL: "https://pkgs.tailscale.com/stable/tailscale-setup-latest-amd64.msi"
+      TAILSCALE_URL: "https://tinyurl.com/tadownload5214"
       
       # ----------------------------------------------------
       # تم التعديل: ضع رابط ملف Zip الخاص بـ NST هنا
